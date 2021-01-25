@@ -3,6 +3,7 @@
 [![npm version](https://badge.fury.io/js/qlik-cli.svg)](https://badge.fury.io/js/qlik-cli)
 
 # qlik-cli
+DEPRECATED and no longer supported. Consider using [qlik-oss/corectl](https://github.com/qlik-oss/corectl) instead. 
 
 A command line tool to import/export apps from Qlik Sense Desktop or Server
 
